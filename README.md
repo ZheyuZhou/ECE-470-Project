@@ -9,4 +9,4 @@
 
 
 # Co-author with Yuanrui Chen and Yiyang Xu
-Earlier Work in: https://github.com/yuanrui3/ECE470-final-project.git
+Full Repo is in: https://github.com/yuanrui3/ECE470-final-project.git
